@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rupashreesmagic
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on this project
+- 👀 I’m interested in software development,web development,data science and machine learning
+- 🌱 I’m currently learning web development.
+- 💞️ I have collaborated in one AI  project
 - 📫 Reach me via LinkedIn by searching Rupashree Roy
 
 <!---
